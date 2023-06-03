@@ -1,0 +1,19 @@
+1. Ile osób bra³o udzia³ w projekcie? Ile czasu trwa³ projekt i co by³o zadaniem w projekcie?
+
+W projekcie wziê³o udzia³ 5 osób. Do przygotowania mieliœmy stronê sklepu meblarskiego wraz z rozbudowanymi funkcjami, chatbotem, logowaniem i rejestracj¹. £¹cznie mieliœmy przewidziane 3 tygodnie na zakoñczenie prac.
+
+2. Jak by³a zorganizowana komunikacja w zespole i podzia³ zadañ na poszczególne osoby?
+
+Komunikacja w zespole opiera³a siê na czacie Kodilli oraz 3 spotkaniach zdalnych. Delegowanie zdañ by³o oparte na platformie Jira, natomiast przechowywanie wersji zakoñczonych oraz roboczych odbywa³a siê na zdalnym repozytorium GitHub. 
+
+3. W jaki sposób dbaliœcie o jakoœæ i spójnoœæ wynikowego kodu projektu?
+
+Weryfikacja zadañ jak i wszelkie poprawki by³y sprawdzane i nanoszone na poszczególne commity za poœrednictwem platformy GitHub. Nastêpnie ka¿dy z uczestników mergowa³ weryfikowany przez siebie kod tworz¹c kompletn¹ dzia³aj¹c¹ wersjê. 
+
+4. Co by³o najwiêkszym problemem w pracy zespo³owej i jak sobie z tym poradziliœcie?
+
+W pierwszej fazie projektu du¿ym wyzwaniem by³a zarówno walka z nowymi narzêdziami jak i przep³yw informacji pomiêdzy uczestnikami projektu. Z czasem obs³uga narzêdzi i sposób pracy sta³ siê jasny, a komunikacja w zespole zosta³a nieco dopracowana. Pod koniec prac zdecydowanie mo¿na mówiæ o wspó³dzia³aniu. 
+
+5. Jakie widzisz korzyœci z pracy zespo³owej w tym projekcie?
+
+Wspólne rozwi¹zywanie kolejnych kroków daje mo¿liwoœæ przyœpieszenia i selekcjonowania prac w zale¿noœci od mo¿liwoœci, dostêpnoœci i poziomu umiejêtnoœci uczestników. Choæ w tym przypadku umiejêtnoœci oscyluj¹ wokó³ podobnego poziomu ka¿dy z uczestników dostarcza swój punkt postrzegania danego wyzwania i przedstawia swoje podejœcie do danego b³êdu. Pracuj¹c w grupie tzw. zaciêcia prac s¹ znacznie rzadsze. 
